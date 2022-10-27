@@ -1,0 +1,39 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Leuville Epistles",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Leuville Epistles</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/105984981585337158447",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-10-27T15:44:14",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1666885454807",
+    "dcterms:modified" : "2022-10-27T15:44:14",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://sheharbano96.github.io/IIIF-test-project/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=795,292,630,461"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M794.59823,291.88084h315.00966v0h315.00966v230.4686v230.4686h-315.00966h-315.00966v-230.4686z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_5764f372-0e0c-4108-bc12-5d12266c56f1\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://91429e1c-47c3-4842-9a2b-93873d9b6b87"
+    } ]
+  } ],
+  "@id" : "https://sheharbano96.github.io/IIIF-test-project/annotations/manifest2-with-annotations2.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
