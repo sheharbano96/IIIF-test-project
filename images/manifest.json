@@ -7,6 +7,63 @@
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
     "width" : 2500,
+    "id" : "https://sheharbano96.github.io/IIIF-test-project/images/2006AC7569/canvas/",
+    "label" : {
+      "none" : [ "2006AC7569" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://sheharbano96.github.io/IIIF-test-project/images/2006AC7569/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://sheharbano96.github.io/IIIF-test-project/images/2006AC7569/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 79,
+              "height" : 53
+            }, {
+              "width" : 157,
+              "height" : 105
+            }, {
+              "width" : 313,
+              "height" : 209
+            }, {
+              "width" : 625,
+              "height" : 417
+            }, {
+              "width" : 1250,
+              "height" : 834
+            }, {
+              "width" : 2500,
+              "height" : 1667
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 2500,
+            "@id" : "https://sheharbano96.github.io/IIIF-test-project/images/2006AC7569",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1667
+          } ],
+          "format" : "image/jpeg",
+          "width" : 2500,
+          "id" : "https://sheharbano96.github.io/IIIF-test-project/images/2006AC7569/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1667
+        },
+        "target" : "https://sheharbano96.github.io/IIIF-test-project/images/2006AC7569/canvas/"
+      } ]
+    } ],
+    "height" : 1667
+  }, {
+    "width" : 2500,
     "id" : "https://sheharbano96.github.io/IIIF-test-project/images/2006AC7537/canvas/",
     "label" : {
       "none" : [ "2006AC7537" ]
