@@ -43,6 +43,11 @@
         },
         "on" : "http://91429e1c-47c3-4842-9a2b-93873d9b6b87"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://sheharbano96.github.io/IIIF-test-project/annotations/manifest2-with-annotations2.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://9d6be8f7-65b4-4d1b-b750-03afba4a5943",
@@ -68,6 +73,11 @@
           "width" : 2500
         },
         "on" : "http://9d6be8f7-65b4-4d1b-b750-03afba4a5943"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://sheharbano96.github.io/IIIF-test-project/annotations/manifest2-with-annotations1.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ],
       "related" : ""
     } ]
