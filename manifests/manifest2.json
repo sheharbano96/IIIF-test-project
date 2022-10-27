@@ -3,6 +3,11 @@
   "@id" : "https://sheharbano96.github.io/IIIF-test-project/manifests/manifest2.json",
   "@type" : "sc:Manifest",
   "label" : "Leuville Epistles",
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1240244679/105984981585337158447/4ebc06386c6627b5bd37d130176433dc/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
   "metadata" : [ ],
   "description" : [ {
     "@value" : "A manuscript from V&A collection.",
