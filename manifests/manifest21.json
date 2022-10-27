@@ -47,6 +47,24 @@
           "width" : 1875
         },
         "on" : "http://91429e1c-47c3-4842-9a2b-93873d9b6b87"
+      }, {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://15a363ad-08bd-45f9-ba08-84e928de6dc1",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/2010-ec-6531/full/539,457/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/2010-ec-6531",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 457,
+          "width" : 539
+        },
+        "on" : "http://91429e1c-47c3-4842-9a2b-93873d9b6b87#xywh=874,998,539,457"
       } ],
       "otherContent" : [ {
         "@id" : "https://sheharbano96.github.io/IIIF-test-project/annotations/manifest2-with-annotations2.json",
@@ -77,7 +95,7 @@
           "height" : 2115,
           "width" : 2500
         },
-        "on" : "http://91429e1c-47c3-4842-9a2b-93873d9b6b87#874,998,539,457"
+        "on" : "http://9d6be8f7-65b4-4d1b-b750-03afba4a5943"
       } ],
       "otherContent" : [ {
         "@id" : "https://sheharbano96.github.io/IIIF-test-project/annotations/manifest2-with-annotations1.json",
