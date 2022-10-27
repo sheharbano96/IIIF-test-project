@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://sheharbano96.github.io/IIIF-test-project/annotations/manifest2-with-annotations.json" ],
+  "otherContent" : [ ],
   "@id" : "https://sheharbano96.github.io/IIIF-test-project/annotations/collection.json",
   "label" : "All annotations loaded in sheharbano96/IIIF-test-project project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
