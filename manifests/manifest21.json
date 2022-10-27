@@ -31,24 +31,6 @@
       "width" : 1875,
       "images" : [ {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
-        "@id" : "http://0f19d040-f019-445b-8b7a-dfdf853d9470",
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "resource" : {
-          "@id" : "https://iiif.archivelab.org/iiif/O1487198/full/full/0/default.jpg",
-          "@type" : "dctypes:Image",
-          "format" : "image/jpeg",
-          "service" : {
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "@id" : "https://iiif.archivelab.org/iiif/O1487198",
-            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
-          },
-          "height" : 2500,
-          "width" : 1875
-        },
-        "on" : "http://91429e1c-47c3-4842-9a2b-93873d9b6b87"
-      }, {
-        "@context" : "http://iiif.io/api/presentation/2/context.json",
         "@id" : "http://15a363ad-08bd-45f9-ba08-84e928de6dc1",
         "@type" : "oa:Annotation",
         "motivation" : "sc:painting",
@@ -65,6 +47,24 @@
           "width" : 539
         },
         "on" : "http://91429e1c-47c3-4842-9a2b-93873d9b6b87#xywh=874,998,539,457"
+      }, {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://0f19d040-f019-445b-8b7a-dfdf853d9470",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/O1487198/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/O1487198",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2500,
+          "width" : 1875
+        },
+        "on" : "http://91429e1c-47c3-4842-9a2b-93873d9b6b87"
       } ],
       "otherContent" : [ {
         "@id" : "https://sheharbano96.github.io/IIIF-test-project/annotations/manifest2-with-annotations2.json",
