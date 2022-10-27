@@ -55,11 +55,11 @@
       } ],
       "related" : ""
     }, {
-      "@id" : "http://9d6be8f7-65b4-4d1b-b750-03afba4a5943",
+      "@id" : "http://91429e1c-47c3-4842-9a2b-93873d9b6b87",
       "@type" : "sc:Canvas",
       "label" : "detail",
-      "height" : 2115,
-      "width" : 2500,
+      "height" : 457,
+      "width" : 539,
       "images" : [ {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
         "@id" : "http://15a363ad-08bd-45f9-ba08-84e928de6dc1",
