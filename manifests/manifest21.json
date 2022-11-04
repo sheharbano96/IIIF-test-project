@@ -27,8 +27,8 @@
       "@id" : "http://91429e1c-47c3-4842-9a2b-93873d9b6b87",
       "@type" : "sc:Canvas",
       "label" : "framed",
-      "height" : 2500,
-      "width" : 1875,
+      "height" : 574,
+      "width" : 832,
       "images" : [ {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
         "@id" : "http://15a363ad-08bd-45f9-ba08-84e928de6dc1",
@@ -61,10 +61,10 @@
             "@id" : "https://iiif.archivelab.org/iiif/O1487198",
             "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
           },
-          "height" : 2500,
-          "width" : 1875
+          "height" : 574,
+          "width" : 832
         },
-        "on" : "http://91429e1c-47c3-4842-9a2b-93873d9b6b87"
+        "on" : "http://91429e1c-47c3-4842-9a2b-93873d9b6b87#xywh=670,942,832,574"
       } ],
       "otherContent" : [ {
         "@id" : "https://sheharbano96.github.io/IIIF-test-project/annotations/manifest2-with-annotations2.json",
